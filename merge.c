@@ -62,6 +62,7 @@ void main()
    {
      printf("%d",c[i]);
    }
+printf("thank you....");
 }
 
 
